@@ -1,2 +1,3 @@
-my name is Nishitha and i am learning python 123. 
-it is summer season
+my name is Nishithaand i am learning new version of python
+i stay in bangalore. 
+
